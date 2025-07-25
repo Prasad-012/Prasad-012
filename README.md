@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prasad
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning DSA
-- ⚡ Fun fact: iykyk
 - living in pune 
 
 <!---
